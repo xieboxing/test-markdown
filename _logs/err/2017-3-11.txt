@@ -1,0 +1,502 @@
+---2017-3-11 17:32:47【ReferenceError: async is not defined
+    at Object.module.exports.run (C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:27:3)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:32:48【ReferenceError: async is not defined
+    at Object.module.exports.run (C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:27:3)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:32:49【ReferenceError: async is not defined
+    at Object.module.exports.run (C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:27:3)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:33:7【TypeError: client.query is not a function
+    at Object.module.exports.field (C:\Users\Administrator\Desktop\备份3-11\time\func\pgdb.js:40:13)
+    at C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:30:10
+    at nextTask (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\async\dist\async.js:5070:14)
+    at Object.waterfall (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\async\dist\async.js:5073:5)
+    at Object.module.exports.run (C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:27:9)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:33:8【TypeError: client.query is not a function
+    at Object.module.exports.field (C:\Users\Administrator\Desktop\备份3-11\time\func\pgdb.js:40:13)
+    at C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:30:10
+    at nextTask (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\async\dist\async.js:5070:14)
+    at Object.waterfall (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\async\dist\async.js:5073:5)
+    at Object.module.exports.run (C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:27:9)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:33:9【TypeError: client.query is not a function
+    at Object.module.exports.field (C:\Users\Administrator\Desktop\备份3-11\time\func\pgdb.js:40:13)
+    at C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:30:10
+    at nextTask (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\async\dist\async.js:5070:14)
+    at Object.waterfall (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\async\dist\async.js:5073:5)
+    at Object.module.exports.run (C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:27:9)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:38:35【TypeError: func.running is not a function
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:38:36【TypeError: func.running is not a function
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:38:37【TypeError: func.running is not a function
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:38:38【TypeError: func.running is not a function
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:38:39【TypeError: func.running is not a function
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:39:8【TypeError: Cannot read property 'user' of undefined
+    at Object.module.exports.create (C:\Users\Administrator\Desktop\备份3-11\time\func\pgdb.js:23:42)
+    at Object.module.exports.running (C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:47:7)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:39:9【TypeError: Cannot read property 'user' of undefined
+    at Object.module.exports.create (C:\Users\Administrator\Desktop\备份3-11\time\func\pgdb.js:23:42)
+    at Object.module.exports.running (C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:47:7)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:39:10【TypeError: Cannot read property 'user' of undefined
+    at Object.module.exports.create (C:\Users\Administrator\Desktop\备份3-11\time\func\pgdb.js:23:42)
+    at Object.module.exports.running (C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:47:7)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:40:11【TypeError: Cannot read property 'user' of undefined
+    at Object.module.exports.create (C:\Users\Administrator\Desktop\备份3-11\time\func\pgdb.js:24:42)
+    at Object.module.exports.running (C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:47:7)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:40:12【TypeError: Cannot read property 'user' of undefined
+    at Object.module.exports.create (C:\Users\Administrator\Desktop\备份3-11\time\func\pgdb.js:24:42)
+    at Object.module.exports.running (C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:47:7)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:40:13【TypeError: Cannot read property 'user' of undefined
+    at Object.module.exports.create (C:\Users\Administrator\Desktop\备份3-11\time\func\pgdb.js:24:42)
+    at Object.module.exports.running (C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:47:7)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:41:29【TypeError: func.running is not a function
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:41:30【TypeError: func.running is not a function
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:41:31【TypeError: func.running is not a function
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:41:32【TypeError: func.running is not a function
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:43:38【TypeError: func.running is not a function
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:43:39【TypeError: func.running is not a function
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:43:40【TypeError: func.running is not a function
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:46:21】
+---2017-3-11 17:48:55【C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:64
+			sql = "insert into 油_日志_非钱表(账号,状态,类容,录入时间)values('13266612380','正常','定时任务','"+moment().format("YYYY-MM-DD HH:mm:ss"))+"'";
+			                                                                                                                    ^
+SyntaxError: Unexpected token )
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:45:15】
+---2017-3-11 17:48:56【C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:64
+			sql = "insert into 油_日志_非钱表(账号,状态,类容,录入时间)values('13266612380','正常','定时任务','"+moment().format("YYYY-MM-DD HH:mm:ss"))+"'";
+			                                                                                                                    ^
+SyntaxError: Unexpected token )
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:45:15】
+---2017-3-11 17:54:1【Error: Cannot find module './stringFormat.js'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Query.callback (C:\Users\Administrator\Desktop\备份3-11\time\func\pgdb.js:84:18)
+    at Query.handleError (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\pg\lib\query.js:141:17)
+    at Connection.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\pg\lib\client.js:180:26)
+    at emitOne (events.js:96:13)
+    at Connection.emit (events.js:188:7)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\pg\lib\connection.js:136:12)】
+---2017-3-11 17:54:2【Error: Cannot find module './stringFormat.js'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Query.callback (C:\Users\Administrator\Desktop\备份3-11\time\func\pgdb.js:84:18)
+    at Query.handleError (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\pg\lib\query.js:141:17)
+    at Connection.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\pg\lib\client.js:180:26)
+    at emitOne (events.js:96:13)
+    at Connection.emit (events.js:188:7)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\pg\lib\connection.js:136:12)】
+---2017-3-11 17:54:3【Error: Cannot find module './stringFormat.js'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Query.callback (C:\Users\Administrator\Desktop\备份3-11\time\func\pgdb.js:84:18)
+    at Query.handleError (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\pg\lib\query.js:141:17)
+    at Connection.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\pg\lib\client.js:180:26)
+    at emitOne (events.js:96:13)
+    at Connection.emit (events.js:188:7)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\pg\lib\connection.js:136:12)】
+---2017-3-11 17:54:4【Error: Cannot find module './stringFormat.js'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Query.callback (C:\Users\Administrator\Desktop\备份3-11\time\func\pgdb.js:84:18)
+    at Query.handleError (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\pg\lib\query.js:141:17)
+    at Connection.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\pg\lib\client.js:180:26)
+    at emitOne (events.js:96:13)
+    at Connection.emit (events.js:188:7)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\pg\lib\connection.js:136:12)】
+---2017-3-11 17:55:17【Error: Cannot find module '../config/share.json'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\func\stringFormat.js:3:16)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-3-11 17:55:18【Error: Cannot find module '../config/share.json'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\func\stringFormat.js:3:16)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-3-11 17:56:0【Error: Cannot find module './aes.js'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\func\stringFormat.js:4:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-3-11 17:56:1【Error: Cannot find module './aes.js'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\func\stringFormat.js:4:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-3-11 17:56:2【Error: Cannot find module './aes.js'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\func\stringFormat.js:4:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-3-11 17:56:3【Error: Cannot find module './aes.js'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\func\stringFormat.js:4:12)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-3-11 17:56:21【Error: Cannot find module 'MD5'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\func\stringFormat.js:5:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-3-11 17:56:22【Error: Cannot find module 'MD5'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\func\stringFormat.js:5:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-3-11 17:56:23【Error: Cannot find module 'MD5'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\func\stringFormat.js:5:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-3-11 17:56:24【Error: Cannot find module 'MD5'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\func\stringFormat.js:5:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-3-11 17:57:11【Error: Cannot find module 'MD5'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\func\stringFormat.js:5:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-3-11 17:57:12【Error: Cannot find module 'MD5'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\func\stringFormat.js:5:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)】
+---2017-3-11 17:57:33【Error: Cannot find module 'crypt'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\node_modules\MD5\md5.js:2:15
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\MD5\md5.js:160:3)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)】
+---2017-3-11 17:57:34【Error: Cannot find module 'crypt'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\node_modules\MD5\md5.js:2:15
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\MD5\md5.js:160:3)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)】
+---2017-3-11 17:57:35【Error: Cannot find module 'crypt'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\node_modules\MD5\md5.js:2:15
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\MD5\md5.js:160:3)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)】
+---2017-3-11 17:57:36【Error: Cannot find module 'crypt'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\node_modules\MD5\md5.js:2:15
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\MD5\md5.js:160:3)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)】
+---2017-3-11 17:57:45【Error: Cannot find module 'charenc'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\node_modules\MD5\md5.js:3:32
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\MD5\md5.js:160:3)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)】
+---2017-3-11 17:57:46【Error: Cannot find module 'charenc'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\node_modules\MD5\md5.js:3:32
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\备份3-11\time\node_modules\MD5\md5.js:160:3)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)】
+---2017-3-11 18:2:43【C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:39
+			    var sql2 = "insert into 油_日志_非钱表(账号,状态,内容,录入时间) values('13266612380','正常','定时任务','"+t+"'"）;
+			                                                                                             ^
+SyntaxError: Invalid or unexpected token
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:45:15】
+---2017-3-11 18:2:44【C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:39
+			    var sql2 = "insert into 油_日志_非钱表(账号,状态,内容,录入时间) values('13266612380','正常','定时任务','"+t+"'"）;
+			                                                                                             ^
+SyntaxError: Invalid or unexpected token
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:45:15】
+---2017-3-11 18:2:45【C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:39
+			    var sql2 = "insert into 油_日志_非钱表(账号,状态,内容,录入时间) values('13266612380','正常','定时任务','"+t+"'"）;
+			                                                                                             ^
+SyntaxError: Invalid or unexpected token
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:45:15】
+---2017-3-11 18:2:46【C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:39
+			    var sql2 = "insert into 油_日志_非钱表(账号,状态,内容,录入时间) values('13266612380','正常','定时任务','"+t+"'"）;
+			                                                                                             ^
+SyntaxError: Invalid or unexpected token
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:45:15】
+---2017-3-11 18:2:47【C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:39
+			    var sql2 = "insert into 油_日志_非钱表(账号,状态,内容,录入时间) values('13266612380','正常','定时任务','"+t+"'"）;
+			                                                                                             ^
+SyntaxError: Invalid or unexpected token
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:45:15】
+---2017-3-11 18:2:48【C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:39
+			    var sql2 = "insert into 油_日志_非钱表(账号,状态,内容,录入时间) values('13266612380','正常','定时任务','"+t+"'"）;
+			                                                                                             ^
+SyntaxError: Invalid or unexpected token
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:45:15】
+---2017-3-11 18:2:49【C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:39
+			    var sql2 = "insert into 油_日志_非钱表(账号,状态,内容,录入时间) values('13266612380','正常','定时任务','"+t+"'"）;
+			                                                                                             ^
+SyntaxError: Invalid or unexpected token
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:45:15】
+---2017-3-11 18:2:50【C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:39
+			    var sql2 = "insert into 油_日志_非钱表(账号,状态,内容,录入时间) values('13266612380','正常','定时任务','"+t+"'"）;
+			                                                                                             ^
+SyntaxError: Invalid or unexpected token
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:45:15】
+---2017-3-11 18:2:51【C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:39
+			    var sql2 = "insert into 油_日志_非钱表(账号,状态,内容,录入时间) values('13266612380','正常','定时任务','"+t+"'"）;
+			                                                                                             ^
+SyntaxError: Invalid or unexpected token
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:45:15】
+---2017-3-11 18:2:54【C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:39
+			    var sql2 = "insert into 油_日志_非钱表(账号,状态,内容,录入时间) values('13266612380','正常','定时任务','"+t+"'"）;
+			                                                                                             ^
+SyntaxError: Invalid or unexpected token
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:45:15】
+---2017-3-11 18:2:55【C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:39
+			    var sql2 = "insert into 油_日志_非钱表(账号,状态,内容,录入时间) values('13266612380','正常','定时任务','"+t+"'"）;
+			                                                                                             ^
+SyntaxError: Invalid or unexpected token
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:45:15】
+---2017-3-11 18:2:56【C:\Users\Administrator\Desktop\备份3-11\time\interface\test.js:39
+			    var sql2 = "insert into 油_日志_非钱表(账号,状态,内容,录入时间) values('13266612380','正常','定时任务','"+t+"'"）;
+			                                                                                             ^
+SyntaxError: Invalid or unexpected token
+    at Object.exports.runInThisContext (vm.js:76:16)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at C:\Users\Administrator\Desktop\备份3-11\time\time3.js:45:15】
