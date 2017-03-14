@@ -1,0 +1,15 @@
+{
+	"payurl":"http://ympay.huiyuanbao.com:13037/cusNotify?",
+	"checkurl":"http://ympay.huiyuanbao.com:13037/InquiryOrder?",
+	"merNo":"026011000306839",
+	"return_url":"http://121.43.176.35:8080/ajax.post?func=jifenchongzhi_huidian",
+	"termNo":"54000006",
+	"key":"E7C69F25AB3B49859AVD7F0AE6410C80",
+	"手续费":"0.006",
+	"层1提成":"0.16",
+	"层2提成":"0.16",
+	"层3提成":"0.16",
+	"最小充值金额":"2",
+	"最大充值金额":"1000000",
+	"出账账户":"13602567887"
+}
